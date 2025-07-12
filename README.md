@@ -1,73 +1,143 @@
-# Welcome to your Lovable project
 
-## Project info
+<div align="center">
+  <h1>👋 Olá, eu sou um Engenheiro de Materiais!</h1>
+  <h3>🔬 Graduando em Engenharia de Materiais | 📊 Analista de Dados | 🌱 Sustentabilidade</h3>
+</div>
 
-**URL**: https://lovable.dev/projects/43b29ba0-e418-4e2c-b81e-e2db8aaba4c2
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Engenheiro+de+Materiais;Especialista+em+PCM;Analista+de+Dados;Lean+Six+Sigma+White+Belt;Sustentabilidade+%26+Efici%C3%AAncia" alt="Typing SVG" />
+</div>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Sobre Mim
 
-**Use Lovable**
+🎓 **Graduando em Engenharia de Materiais** pelo IFPA  
+💼 **Especialista em PCM** (Planejamento e Controle de Manutenção)  
+📊 **Analista de Dados** com foco em otimização de processos  
+🌱 **Apaixonado por Sustentabilidade** e reaproveitamento de resíduos industriais  
+🏆 **Certificado Lean Six Sigma White Belt**  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/43b29ba0-e418-4e2c-b81e-e2db8aaba4c2) and start prompting.
+> *"Transformando dados em insights e resíduos em oportunidades"*
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Stack Tecnológica
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 💻 Ferramentas de Análise & Gestão
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🔧 Especialidades Técnicas
+- **PCM** - Planejamento e Controle de Manutenção
+- **SAP-PM** - SAP Plant Maintenance
+- **Oracle EDS** - Enterprise Data Solutions
+- **Excel Avançado** - Modelagem e Análise de Dados
+- **Power BI** - Business Intelligence e Dashboards
+- **Lean Six Sigma** - Otimização de Processos
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📈 Áreas de Expertise
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/dusk/64/000000/maintenance.png"/>
+        <br><strong>PCM</strong>
+        <br><sub>Planejamento & Controle</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/dusk/64/000000/warehouse.png"/>
+        <br><strong>Gestão de Estoque</strong>
+        <br><sub>Otimização & Controle</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/dusk/64/000000/audit.png"/>
+        <br><strong>Auditoria</strong>
+        <br><sub>Processos & Qualidade</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/dusk/64/000000/recycle.png"/>
+        <br><strong>Sustentabilidade</strong>
+        <br><sub>Reaproveitamento</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 🎯 Projetos & Experiência
+
+### 🏭 **Experiência Industrial**
+- ✅ Atuação em **empresas públicas e privadas**
+- ✅ Projetos de **reaproveitamento de resíduos industriais**
+- ✅ Implementação de **melhorias contínuas**
+- ✅ **Análise de falhas** e otimização de processos
+
+### 📊 **Análise de Dados**
+- 📈 Desenvolvimento de dashboards em **Power BI**
+- 🔍 Análise de dados operacionais
+- 📋 Relatórios gerenciais automatizados
+- 🎯 KPIs de manutenção e eficiência
+
+---
+
+## 🌟 Certificações & Qualificações
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Lean_Six_Sigma-White_Belt-green?style=for-the-badge&logo=sigma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-PM_Certified-blue?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-Advanced-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+---
+
+## 🎯 Foco Atual
+
+```
+🔬 Finalizando graduação em Engenharia de Materiais
+📊 Aprofundando conhecimentos em Data Science
+🌱 Desenvolvendo projetos de sustentabilidade industrial
+🚀 Buscando oportunidades em análise de dados e otimização de processos
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🤝 Vamos Conectar?
 
-**Use GitHub Codespaces**
+<div align="center">
+  <a href="mailto:seu.email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SEU_USERNAME">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=green&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/43b29ba0-e418-4e2c-b81e-e2db8aaba4c2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<div align="center">
+  <h3>💡 "A inovação distingue um líder de um seguidor" - Steve Jobs</h3>
+  <p>Sempre em busca de soluções sustentáveis e eficientes! 🌱⚡</p>
+</div>
