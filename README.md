@@ -3,37 +3,12 @@
 # 👨‍💼 Ramon Sousa dos Santos
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Engenharia+de+Materiais;PCM+%26+Gest%C3%A3o+de+Manuten%C3%A7%C3%A3o;Controle+de+Estoque;Sustentabilidade+Industrial;Analista+de+Dados" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=FF5F1F&center=true&vCenter=true&width=650&lines=Engenharia+de+Materiais;PCM+%26+Gest%C3%A3o+de+Manuten%C3%A7%C3%A3o;Controle+de+Estoque;Sustentabilidade+Industrial;Analista+de+Dados" alt="Typing Animation" style="filter: drop-shadow(0 0 8px #FF5F1F66);"/>
 </div>
 
-<br>
-
+<!-- GIF Central - Programador em Ação -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:ramonsousa1301@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="tel:+5591982351323">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/ramon-sousa-977b5b248/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Engineering Animation"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Coding animation" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 </div>
@@ -62,131 +37,67 @@
 
 ## 💼 Experiência Profissional
 
-### 🏭 Estagiário em PCM – Nacional Gás
-*06/2025 – Atual*
+<div align="center"> <table> <tr> <td align="center"> <strong>GEQ – Nacional Gás Butano Distribuidora LTDA</strong><br> <em>Estagiário em PCM | Junho 2025 – Atualmente</em> </td> </tr> <tr><td> <ul align="left"> <li>⚙️ Acompanhamento de ordens de serviço e planos de manutenção preventiva</li> <li>📊 Atualização de indicadores: <strong>MTTR, MTBF, confiabilidade e backlog</strong></li> <li>🛠️ Apoio na organização de fluxos de manutenção e análise de falhas</li> <li>💻 Domínio das ferramentas <strong>SAP-PM</strong> e <strong>Oracle EDS</strong></li> </ul> </td></tr> </table> </div> <br> <div align="center"> <table> <tr> <td align="center"> <strong>RGIS – Freelancer</strong><br> <em>Auxiliar de Auditoria | Agosto 2024 – Fevereiro 2025</em> </td> </tr> <tr><td> <ul align="left"> <li>🔍 Contagem física de produtos e conferência de inventário</li> <li>✅ Apoio na validação de dados de estoque e movimentação de mercadorias</li> <li>📑 Organização de relatórios de contagem para suporte à auditoria</li> </ul> </td></tr> </table> </div> <br> <div align="center"> <table> <tr> <td align="center"> <strong>Corpo de Bombeiros Militar do Estado do Pará (CBMPA)</strong><br> <em>Auxiliar Administrativo | Março 2021 – Março 2023</em> </td> </tr> <tr><td> <ul align="left"> <li>📊 Controle de estoque com uso de planilhas e sistemas</li> <li>🚚 Apoio logístico na distribuição de materiais às unidades</li> <li>📁 Gestão de contratos, convênios e execução de rotinas administrativas</li> </ul> </td></tr> </table> </div>
 
-- ⚙️ Gestão de ordens de serviço e planos preventivos
-- 📊 Indicadores: MTTR, MTBF, backlog e confiabilidade
-- 🛠️ Ferramentas: SAP-PM e Oracle EDS
 
-### 📋 Auxiliar de Auditoria – RGIS
-*08/2024 – 02/2025*
 
-- 🔍 Contagem e conferência de inventários
-- ✅ Validação de dados e suporte à auditoria
-
-### 📦 Auxiliar Administrativo – CBMPA
-*03/2021 – 03/2023*
-
-- 📊 Controle de estoque e rotinas administrativas
-- 🚚 Distribuição logística e gestão de contratos
-
----
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-  
-### 📊 Análise de Dados & Business Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### 🏭 Sistemas Industriais & ERP
-<p>
-  <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_EDS-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### 📈 Metodologias & Certificações
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Lean_Six_Sigma-White_Belt-28a745?style=for-the-badge&logo=sigma&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PCM-Planejamento_e_Controle-blue?style=for-the-badge&logo=tools&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</div>
-
----
 
 ## 🎯 Áreas de Atuação
-
 ```mermaid
 mindmap
   root((Ramon Sousa))
+    
+    %% Engenharia de Materiais
     Engenharia de Materiais
-      Análise de Falhas
-      Modelagem Computacional
+      Caracterização
+        Caracterização Físico-Química, Mineralógica e Térmica
+      Sustentabilidade
+        Circulariedade de resíduos Industriais
+
+
+
+    
+    %% PCM
     PCM
-      Gestão de Manutenção
-      Indicadores Industriais
-    Gestão
-      Controle de Estoque
+      Gestão
+        Ordens de Serviço
+        Plano de Manutenção
+      Indicadores
+        MTTR/MTBF
+        Backlog
+        Confiabilidade
+      Sistemas
+        SAP-PM
+        Oracle EBS
+    
+    %% Gestão de Materiais 
+    Almoxarifado
+      Estoques
+        Almoxarifado
+        Inventários
       Auditoria
-    Sustentabilidade
-      Reaproveitamento de Resíduos
-      Eficiência Operacional
+        Validação de Dados
+        Relatórios
 ```
 
-### 🔬 **Engenharia de Materiais**
-- Análise de falhas e propriedades de materiais
-- Modelagem computacional
-- Desenvolvimento de novos materiais
 
-### ⚙️ **PCM (Planejamento e Controle de Manutenção)**
-- Gestão de ordens de serviço
-- Análise de indicadores (MTTR, MTBF)
-- Otimização de processos de manutenção
 
-### 📊 **Controle de Estoque**
-- Gestão de inventários
-- Otimização de processos logísticos
-- Auditoria e validação de dados
-
-### 🌱 **Sustentabilidade Industrial**
-- Reaproveitamento de resíduos
-- Implementação de práticas sustentáveis
-- Melhoria contínua de processos
-
----
 
 ## 📈 Competências Técnicas
 
 <div align="center">
 
-| Área | Nível | Experiência |
-|------|-------|-------------|
-| **SAP-PM** | ⭐⭐⭐⭐⭐ | Gestão de manutenção |
-| **Oracle EDS** | ⭐⭐⭐⭐⭐ | Análise de dados |
-| **Excel Avançado** | ⭐⭐⭐⭐⭐ | VBA, Dashboards |
-| **Power BI** | ⭐⭐⭐⭐⭐ | Business Intelligence |
-| **Lean Six Sigma** | ⭐⭐⭐⭐ | Melhoria de processos |
-| **PCM** | ⭐⭐⭐⭐⭐ | Planejamento e controle |
+| Área               | Nível | Experiência                                                                                                                                                  |
+| ------------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **SAP-PM**         | ⭐⭐⭐⭐ | Gestão eficiente de manutenção industrial, acompanhamento de OS, planos preventivos e corretivos, monitoramento de indicadores (MTTR, MTBF, confiabilidade). |
+| **Oracle EBS**     | ⭐⭐⭐⭐⭐ | Análise e tratamento de grandes volumes de dados para suporte à tomada de decisão, extração e validação de informações.                                      |
+| **Excel Avançado** | ⭐⭐⭐⭐⭐ | Desenvolvimento de macros em VBA, criação de dashboards interativos, uso avançado de fórmulas, tabelas dinâmicas e automação de processos.                   |
+| **Power BI**       | ⭐⭐⭐⭐⭐ | Criação de dashboards dinâmicos e relatórios interativos para transformar dados em insights e monitoramento de KPIs.                                         |
+| **Lean Six Sigma** | ⭐⭐⭐  | Aplicação de metodologias para melhoria contínua, redução de desperdícios e otimização de fluxos de trabalho.                                                |
+| **PCM**            | ⭐⭐⭐⭐ | Planejamento e controle de manutenção com foco em organização de OS, programação preventiva/corretiva e monitoramento de desempenho.                         |
+
 
 </div>
-
----
-
-## 🎯 Perfil Profissional
-
-> **Graduando em Engenharia de Materiais** com sólida experiência em **PCM**, **gestão de estoque** e **projetos de sustentabilidade**. Atuação comprovada em empresas públicas e privadas, com domínio de ferramentas como **SAP-PM**, **Oracle EDS**, **Excel Avançado** e **Power BI**.
-
-### 🚀 Características
-- 📊 **Analítico**: Forte capacidade de análise de dados e indicadores
-- ⚡ **Proativo**: Iniciativa para identificar e resolver problemas
-- 🎯 **Orientado a Resultados**: Foco em eficiência e otimização
-- 🌱 **Sustentabilidade**: Paixão por soluções ambientalmente responsáveis
-- 📈 **Melhoria Contínua**: Certificação Lean Six Sigma White Belt
 
 ---
 
@@ -208,8 +119,4 @@ mindmap
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
-</div>
 
