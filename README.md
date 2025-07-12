@@ -1,4 +1,3 @@
-
 # Ramon Sousa dos Santos
 
 > **Engenharia de Materiais | PCM | Estoque | Sustentabilidade Industrial**
