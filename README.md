@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 # 👨‍💼 Ramon Sousa dos Santos
